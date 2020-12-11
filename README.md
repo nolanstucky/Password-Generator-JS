@@ -1,5 +1,5 @@
 # Password-Generator-JS
-This password generator was built using html and a custom css styling for the main page. The logic was built in javascript.
+This password generator was built using html and a custom css styling for the main page. The logic was built with javascript.
 
 # Functionality of this project.
 When user clicks on the generate password button a prompt of character length will be presented allowing the user to create a password between 8-128 characters. They will then be asked if they want lowercase characters, uppercase characters, numbers and or special characters. 
